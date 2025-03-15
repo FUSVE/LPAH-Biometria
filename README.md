@@ -1,2 +1,0 @@
-# LPAH-Biometria
-Exemplo

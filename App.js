@@ -26,8 +26,8 @@ export function TelaSegura() {
 
 }
 
-
 export default function App() {
+
   const [biometria, setBiometria] = useState(false);
   const [render, setRender] = useState(false);
 
